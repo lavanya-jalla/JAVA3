@@ -1,0 +1,2 @@
+Javaa is an object oriented programming language
+It is dynamic,robust and platform independnet
