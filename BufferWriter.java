@@ -10,7 +10,7 @@ public class BufferWriter {
         BufferedWriter bw=new BufferedWriter(new FileWriter("file2.txt"));
   
         // anynomous 
-       
+       //same synatx we use for streams tooo...
         
         int lcount=0;
         String Line;
