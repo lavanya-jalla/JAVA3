@@ -1,8 +1,8 @@
 public class Student {
-    private int id;
+     int id;
     private String name;
     private double gpa;
-    private String uni;
+     String uni;
     private String city;
     public Student(int id,String name,double gpa,String uni,String city){
         this.id=id;
